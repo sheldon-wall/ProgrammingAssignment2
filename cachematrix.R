@@ -1,5 +1,6 @@
 ## Week 3 - Peer-graded assignment - Lexical Scoping
 ## These functions calculate and cache the inverse of a matrix
+## which can be a time-consuming computation.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 ##
